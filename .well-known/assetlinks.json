@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.krowla.twa",
-        "sha256_cert_fingerprints": ["A9:7D:E5:6E:36:19:16:5B:B9:AD:A6:57:91:73:F5:7F:6C:68:C5:44:F9:AA:B6:DA:4B:66:9F:73:57:2D:11:D5"]
+        "sha256_cert_fingerprints": ["6A:80:70:7A:E7:B5:A7:27:20:AB:68:F6:51:50:8A:5B:00:15:9A:E1:7A:E6:69:63:84:E0:93:B6:01:5A:E4:CC"]
       }
     }]
