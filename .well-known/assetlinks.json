@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.krowla.twa",
+        "sha256_cert_fingerprints": ["A9:7D:E5:6E:36:19:16:5B:B9:AD:A6:57:91:73:F5:7F:6C:68:C5:44:F9:AA:B6:DA:4B:66:9F:73:57:2D:11:D5"]
+      }
+    }]
