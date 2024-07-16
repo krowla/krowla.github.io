@@ -1,1 +1,1 @@
-include: [".well-known"]
+include: [".well-known", "paulo/.well-known",  "paulo/game.apk"]
